@@ -2,3 +2,5 @@ ml-course/
 *csv
 *txt
 *.zip
+.DS_Store
+homeworks/.DS_Store
